@@ -1,5 +1,5 @@
 ## EX 2 Data Manipulation Language DML and Data Control Language DCL commands
-## DATE:
+## DATE: 11.8.2023
 ## AIM:
 To create a manager database and execute DML queries using SQL.
 
